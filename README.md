@@ -1,4 +1,4 @@
-👩‍💻 Projeto de gestão durante o curso <a href="https://www.udemy.com/course/curso-completo-do-desenvolvedor-larave"> Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS</a> com os aprendizados: 
+👩‍💻 Projeto de gestão durante o curso <a href="https://www.udemy.com/course/curso-completo-do-desenvolvedor-laravel"> Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS</a> com os aprendizados: 
 - Routes: Criação de rotas, grupos, verbos HTTP Get, Post, Delete, Put e Patch.
 - Views: Criação de views do lado do back-end da aplicação com a utilização do engine de views Blade.
 - Controllers: Criação de controladores.
